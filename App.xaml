@@ -1,0 +1,13 @@
+﻿<Application x:Class="BookBuddy.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BookBuddy"
+             xmlns:vm="clr-namespace:BookBuddy.ViewModels"
+             xmlns:v="clr-namespace:BookBuddy.Views"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type vm:ReplacingBooksViewModel}">
+            <v:ReplacingBooksView />
+        </DataTemplate>
+    </Application.Resources>
+</Application>
