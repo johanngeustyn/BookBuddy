@@ -15,6 +15,7 @@ BookBuddy is a gamified application designed to train library users and novice l
 
 ## Features
 
+- **Identifying Areas Game**: Users match call numbers with their descriptions using drag and drop.
 - **Replacing Books Game**: Users rearrange generated call numbers in ascending order using drag and drop.
 - **Gamification Timer Feature**: A timer tracks the user's progress, motivating them to improve their time.
 - **Utility Functions**: 
@@ -55,10 +56,15 @@ git clone https://github.com/johanngeustyn/BookBuddy.git
    - Generates 10 random call numbers upon selection. Use drag and drop to rearrange these numbers in ascending order.
    - Use the provided buttons to either shuffle the current list, generate a new list, or verify the order of your list.
    - Aim to beat the clock and improve your time with each attempt!
+3. **Identifying Areas**:
+   - At the start, you're presented with 4 call numbers in one column and 7 descriptions in another. Your task is to correctly match each call number with its corresponding description.
+   - Use drag and drop to rearrange the descriptions to align them with the appropriate call numbers.
+   - After making your selections, click the submit button to check your matches.
+   - Challenge yourself! In the subsequent round, the positions of call numbers and descriptions will swap.
+   - Aim for accuracy and speed to master the Dewey Decimal System's top-level classes!
 
 ## Future Enhancements
 
-- **Identifying Areas**: This will test users on identifying which broad area a book belongs to.
 - **Finding Call Numbers**: Here, users will have the task of determining the call number for specific topics.
 
 ## License & Contributing
