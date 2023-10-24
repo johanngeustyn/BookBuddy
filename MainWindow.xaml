@@ -86,7 +86,7 @@
         <!-- Buttons in the left column -->
         <StackPanel Grid.Column="0" VerticalAlignment="Center">
             <Button Content="Replace Books" Command="{Binding NavigateToReplacingBooksCommand}" Width="200" Name="btnReplaceBooks" />
-            <Button Content="Identify Areas" Width="200" IsEnabled="False"/>
+            <Button Content="Identify Areas" Command="{Binding NavigateToIdentifyingAreasCommand}" Width="200" Name="btnIdentifyingAreas" />
             <Button Content="Find Call Numbers" Width="200" IsEnabled="False"/>
         </StackPanel>
 

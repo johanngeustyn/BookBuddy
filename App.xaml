@@ -9,5 +9,8 @@
         <DataTemplate DataType="{x:Type vm:ReplacingBooksViewModel}">
             <v:ReplacingBooksView />
         </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:IdentifyingAreasViewModel}">
+            <v:IdentifyingAreasView />
+        </DataTemplate>
     </Application.Resources>
 </Application>

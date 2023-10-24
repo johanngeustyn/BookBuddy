@@ -30,7 +30,7 @@ namespace BookBuddy.ViewModels
         // Constructor
         public ReplacingBooksViewModel()
         {
-            // Initialization of commands
+            // Initialisation of commands
             ShuffleCommand = new RelayCommand(Shuffle);
             GenerateNewListCommand = new RelayCommand(GenerateNewList);
             CheckOrderCommand = new RelayCommand(CheckOrder);
@@ -38,7 +38,7 @@ namespace BookBuddy.ViewModels
             // Generate initial call numbers
             CallNumbers = GenerateRandomCallNumbers(10);
 
-            // Initialize the game start command
+            // Initialise the game start command
             StartGameCommand = new RelayCommand(StartGame);
 
             // Set up the game timer
@@ -150,6 +150,7 @@ namespace BookBuddy.ViewModels
                     // If the order is correct, stop the game timer and show a success message
                     StopGame();
                     MessageBox.Show("You got the order correct!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                    GenerateNewList();
                 }
                 else
                 {

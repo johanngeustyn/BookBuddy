@@ -32,14 +32,20 @@ namespace BookBuddy.ViewModels
         public ICommand NavigateToReplacingBooksCommand { get; private set; }
 
         /// <summary>
+        /// Command to navigate to the IdentifyingAreas view.
+        /// </summary>
+        public ICommand NavigateToIdentifyingAreasCommand { get; private set; }
+
+        /// <summary>
         /// Constructor for the MainViewModel.
         /// </summary>
         public MainViewModel()
         {
             try
             {
-                // Initialize the command.
+                // Initialize the commands.
                 NavigateToReplacingBooksCommand = new RelayCommand(NavigateToReplacingBooks);
+                NavigateToIdentifyingAreasCommand = new RelayCommand(NavigateToIdentifyingAreas);
             }
             catch (Exception ex)
             {
@@ -56,6 +62,22 @@ namespace BookBuddy.ViewModels
             try
             {
                 CurrentViewModel = new ReplacingBooksViewModel();
+            }
+            catch (Exception ex)
+            {
+                // Handle error
+                throw ex;
+            }
+        }
+
+        /// <summary>
+        /// Sets the CurrentViewModel to a new instance of IdentifyingAreasViewModel.
+        /// </summary>
+        private void NavigateToIdentifyingAreas()
+        {
+            try
+            {
+                CurrentViewModel = new IdentifyingAreasViewModel();
             }
             catch (Exception ex)
             {
