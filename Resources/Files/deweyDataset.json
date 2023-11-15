@@ -1,0 +1,814 @@
+[
+    {
+        "CallNumber": "000",
+        "Description": "Computer science, information, and general works",
+        "Children": [
+            {
+                "CallNumber": "000",
+                "Description": "Computer science, knowledge, and systems",
+                "Children": [
+                    {
+                        "CallNumber": "000",
+                        "Description": "Computer science, information and general works"
+                    },
+                    {
+                        "CallNumber": "001",
+                        "Description": "Knowledge"
+                    },
+                    {
+                        "CallNumber": "002",
+                        "Description": "The book (writing, libraries, and book-related topics)"
+                    },
+                    {
+                        "CallNumber": "003",
+                        "Description": "Systems"
+                    },
+                    {
+                        "CallNumber": "004",
+                        "Description": "Data processing and computer science"
+                    },
+                    {
+                        "CallNumber": "005",
+                        "Description": "Computer programming, programs, and data"
+                    },
+                    {
+                        "CallNumber": "006",
+                        "Description": "Special computer methods (e.g. AI, multimedia, VR)"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "010",
+                "Description": "Bibliographies",
+                "Children": [
+                    {
+                        "CallNumber": "010",
+                        "Description": "Bibliography"
+                    },
+                    {
+                        "CallNumber": "011",
+                        "Description": "Bibliographies"
+                    },
+                    {
+                        "CallNumber": "012",
+                        "Description": "Bibliographies of individuals"
+                    },
+                    {
+                        "CallNumber": "014",
+                        "Description": "Bibliographies of anonymous and pseudonymous works"
+                    },
+                    {
+                        "CallNumber": "015",
+                        "Description": "Bibliographies of works from specific places"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "020",
+                "Description": "Library and information sciences",
+                "Children": [
+                    {
+                        "CallNumber": "020",
+                        "Description": "Library and information sciences"
+                    },
+                    {
+                        "CallNumber": "021",
+                        "Description": "Library relationships (with archives, information centers, etc.)"
+                    },
+                    {
+                        "CallNumber": "022",
+                        "Description": "Administration of physical plant"
+                    },
+                    {
+                        "CallNumber": "023",
+                        "Description": "Personnel management"
+                    },
+                    {
+                        "CallNumber": "025",
+                        "Description": "Library operations"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "030",
+                "Description": "Encyclopedias and books of facts",
+                "Children": [
+                    {
+                        "CallNumber": "030",
+                        "Description": "General encyclopedic works"
+                    },
+                    {
+                        "CallNumber": "031",
+                        "Description": "Encyclopedias in American English"
+                    },
+                    {
+                        "CallNumber": "032",
+                        "Description": "Encyclopedias in English"
+                    },
+                    {
+                        "CallNumber": "033",
+                        "Description": "Encyclopedias in other Germanic languages"
+                    },
+                    {
+                        "CallNumber": "034",
+                        "Description": "Encyclopedias in French, Occitan, and Catalan"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "050",
+                "Description": "Magazines, journals and serials",
+                "Children": [
+                    {
+                        "CallNumber": "050",
+                        "Description": "General serial publications"
+                    },
+                    {
+                        "CallNumber": "051",
+                        "Description": "Serials in American English"
+                    },
+                    {
+                        "CallNumber": "052",
+                        "Description": "Serials in English"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "060",
+                "Description": "Associations, organizations and museums",
+                "Children": [
+                    {
+                        "CallNumber": "060",
+                        "Description": "General organizations and museum science"
+                    },
+                    {
+                        "CallNumber": "061",
+                        "Description": "Organizations in North America"
+                    },
+                    {
+                        "CallNumber": "062",
+                        "Description": "Organizations in British Isles; in England"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "100",
+        "Description": "Philosophy and psychology",
+        "Children": [
+            {
+                "CallNumber": "100",
+                "Description": "Philosophy",
+                "Children": [
+                    {
+                        "CallNumber": "100",
+                        "Description": "Philosophy and psychology"
+                    },
+                    {
+                        "CallNumber": "101",
+                        "Description": "Theory of philosophy"
+                    },
+                    {
+                        "CallNumber": "102",
+                        "Description": "Miscellany"
+                    },
+                    {
+                        "CallNumber": "103",
+                        "Description": "Dictionaries and encyclopedias"
+                    },
+                    {
+                        "CallNumber": "105",
+                        "Description": "Serial publications"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "110",
+                "Description": "Metaphysics",
+                "Children": [
+                    {
+                        "CallNumber": "110",
+                        "Description": "Metaphysics"
+                    },
+                    {
+                        "CallNumber": "111",
+                        "Description": "Ontology"
+                    },
+                    {
+                        "CallNumber": "113",
+                        "Description": "Cosmology (Philosophy of nature)"
+                    },
+                    {
+                        "CallNumber": "114",
+                        "Description": "Space"
+                    },
+                    {
+                        "CallNumber": "115",
+                        "Description": "Time"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "120",
+                "Description": "Epistemology",
+                "Children": [
+                    {
+                        "CallNumber": "120",
+                        "Description": "Epistemology, causation, and humankind"
+                    },
+                    {
+                        "CallNumber": "121",
+                        "Description": "Epistemology (Theory of knowledge)"
+                    },
+                    {
+                        "CallNumber": "122",
+                        "Description": "Causation"
+                    },
+                    {
+                        "CallNumber": "123",
+                        "Description": "Determinism and indeterminism"
+                    },
+                    {
+                        "CallNumber": "124",
+                        "Description": "Teleology"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "130",
+                "Description": "Parapsychology and occultism",
+                "Children": [
+                    {
+                        "CallNumber": "130",
+                        "Description": "Parapsychology and occultism"
+                    },
+                    {
+                        "CallNumber": "131",
+                        "Description": "Parapsychological and occult methods for achieving well-being, happiness, success"
+                    },
+                    {
+                        "CallNumber": "133",
+                        "Description": "Specific topics in parapsychology and occultism"
+                    },
+                    {
+                        "CallNumber": "135",
+                        "Description": "Dreams and mysteries"
+                    },
+                    {
+                        "CallNumber": "137",
+                        "Description": "Divinatory graphology"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "140",
+                "Description": "Philosophical schools of thought",
+                "Children": [
+                    {
+                        "CallNumber": "140",
+                        "Description": "Specific philosophical schools and viewpoints"
+                    },
+                    {
+                        "CallNumber": "141",
+                        "Description": "Idealism and related systems and doctrines"
+                    },
+                    {
+                        "CallNumber": "142",
+                        "Description": "Critical philosophy"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "150",
+                "Description": "Psychology",
+                "Children": [
+                    {
+                        "CallNumber": "150",
+                        "Description": "Psychology"
+                    },
+                    {
+                        "CallNumber": "152",
+                        "Description": "Sensory perception, movement, emotions, and physiological drives"
+                    },
+                    {
+                        "CallNumber": "153",
+                        "Description": "Conscious mental processes and intelligence"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "200",
+        "Description": "Religion",
+        "Children": [
+            {
+                "CallNumber": "200",
+                "Description": "Religion",
+                "Children": [
+                    {
+                        "CallNumber": "200",
+                        "Description": "Religion"
+                    },
+                    {
+                        "CallNumber": "201",
+                        "Description": "Religious mythology, general classes of religion, interreligious relations and attitudes, social theology"
+                    },
+                    {
+                        "CallNumber": "202",
+                        "Description": "Doctrines"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "210",
+                "Description": "Philosophy and theory of religion",
+                "Children": [
+                    {
+                        "CallNumber": "210",
+                        "Description": "Philosophy and theory of religion"
+                    },
+                    {
+                        "CallNumber": "211",
+                        "Description": "Concepts of God"
+                    },
+                    {
+                        "CallNumber": "212",
+                        "Description": "Existence, ways of knowing God, attributes of God"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "220",
+                "Description": "The Bible",
+                "Children": [
+                    {
+                        "CallNumber": "220",
+                        "Description": "Bible"
+                    },
+                    {
+                        "CallNumber": "221",
+                        "Description": "Old Testament (Tanakh)"
+                    },
+                    {
+                        "CallNumber": "222",
+                        "Description": "Historical books of Old Testament"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "230",
+                "Description": "Christianity",
+                "Children": [
+                    {
+                        "CallNumber": "230",
+                        "Description": "Christianity"
+                    },
+                    {
+                        "CallNumber": "231",
+                        "Description": "God"
+                    },
+                    {
+                        "CallNumber": "232",
+                        "Description": "Jesus Christ and his family"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "300",
+        "Description": "Social sciences",
+        "Children": [
+            {
+                "CallNumber": "300",
+                "Description": "Social sciences, sociology, and anthropology",
+                "Children": [
+                    {
+                        "CallNumber": "300",
+                        "Description": "Social sciences"
+                    },
+                    {
+                        "CallNumber": "301",
+                        "Description": "Sociology and anthropology"
+                    },
+                    {
+                        "CallNumber": "302",
+                        "Description": "Social interaction"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "310",
+                "Description": "Statistics",
+                "Children": [
+                    {
+                        "CallNumber": "310",
+                        "Description": "Collections of general statistics"
+                    },
+                    {
+                        "CallNumber": "314",
+                        "Description": "General statistics of Europe"
+                    },
+                    {
+                        "CallNumber": "315",
+                        "Description": "General statistics of Asia"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "320",
+                "Description": "Political science",
+                "Children": [
+                    {
+                        "CallNumber": "320",
+                        "Description": "Political science (Politics and government)"
+                    },
+                    {
+                        "CallNumber": "321",
+                        "Description": "Systems of governments and states"
+                    },
+                    {
+                        "CallNumber": "322",
+                        "Description": "Relation of state to organized groups and their members"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "330",
+                "Description": "Economics",
+                "Children": [
+                    {
+                        "CallNumber": "330",
+                        "Description": "Economics"
+                    },
+                    {
+                        "CallNumber": "331",
+                        "Description": "Labor economics"
+                    },
+                    {
+                        "CallNumber": "332",
+                        "Description": "Financial economics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "400",
+        "Description": "Language",
+        "Children": [
+            {
+                "CallNumber": "400",
+                "Description": "Language",
+                "Children": [
+                    {
+                        "CallNumber": "400",
+                        "Description": "Language"
+                    },
+                    {
+                        "CallNumber": "401",
+                        "Description": "Philosophy and theory, international languages"
+                    },
+                    {
+                        "CallNumber": "402",
+                        "Description": "Miscellany"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "410",
+                "Description": "Linguistics",
+                "Children": [
+                    {
+                        "CallNumber": "410",
+                        "Description": "Linguistics"
+                    },
+                    {
+                        "CallNumber": "411",
+                        "Description": "Writing systems of standard forms of languages"
+                    },
+                    {
+                        "CallNumber": "412",
+                        "Description": "Etymology of standard forms of languages"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "420",
+                "Description": "English and Old English languages",
+                "Children": [
+                    {
+                        "CallNumber": "420",
+                        "Description": "English and Old English (Anglo-Saxon)"
+                    },
+                    {
+                        "CallNumber": "421",
+                        "Description": "Writing system, phonology, phonetics of standard English"
+                    },
+                    {
+                        "CallNumber": "422",
+                        "Description": "Etymology of standard English"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "500",
+        "Description": "Science",
+        "Children": [
+            {
+                "CallNumber": "500",
+                "Description": "Science",
+                "Children": [
+                    {
+                        "CallNumber": "500",
+                        "Description": "Natural sciences and mathematics"
+                    },
+                    {
+                        "CallNumber": "501",
+                        "Description": "Philosophy and theory"
+                    },
+                    {
+                        "CallNumber": "503",
+                        "Description": "Dictionaries, encyclopedias, concordances"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "510",
+                "Description": "Mathematics",
+                "Children": [
+                    {
+                        "CallNumber": "510",
+                        "Description": "Mathematics"
+                    },
+                    {
+                        "CallNumber": "511",
+                        "Description": "General principles of mathematics"
+                    },
+                    {
+                        "CallNumber": "512",
+                        "Description": "Algebra"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "520",
+                "Description": "Astronomy",
+                "Children": [
+                    {
+                        "CallNumber": "520",
+                        "Description": "Astronomy and allied sciences"
+                    },
+                    {
+                        "CallNumber": "521",
+                        "Description": "Celestial mechanics"
+                    },
+                    {
+                        "CallNumber": "522",
+                        "Description": "Techniques, procedures, apparatus, equipment, materials"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "600",
+        "Description": "Technology",
+        "Children": [
+            {
+                "CallNumber": "600",
+                "Description": "Technology",
+                "Children": [
+                    {
+                        "CallNumber": "600",
+                        "Description": "Technology (Applied sciences)"
+                    },
+                    {
+                        "CallNumber": "601",
+                        "Description": "Philosophy and theory"
+                    },
+                    {
+                        "CallNumber": "603",
+                        "Description": "Dictionaries, encyclopedias, concordances"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "610",
+                "Description": "Medicine and health",
+                "Children": [
+                    {
+                        "CallNumber": "610",
+                        "Description": "Medicine and health"
+                    },
+                    {
+                        "CallNumber": "611",
+                        "Description": "Human anatomy, cytology, histology"
+                    },
+                    {
+                        "CallNumber": "612",
+                        "Description": "Human physiology"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "620",
+                "Description": "Engineering",
+                "Children": [
+                    {
+                        "CallNumber": "620",
+                        "Description": "Engineering and applied operations"
+                    },
+                    {
+                        "CallNumber": "621",
+                        "Description": "Applied physics"
+                    },
+                    {
+                        "CallNumber": "622",
+                        "Description": "Mining and related operations"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "700",
+        "Description": "Arts and recreation",
+        "Children": [
+            {
+                "CallNumber": "700",
+                "Description": "Arts",
+                "Children": [
+                    {
+                        "CallNumber": "700",
+                        "Description": "The Arts"
+                    },
+                    {
+                        "CallNumber": "701",
+                        "Description": "Philosophy and theory of fine and decorative arts"
+                    },
+                    {
+                        "CallNumber": "702",
+                        "Description": "Miscellany of fine and decorative arts"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "710",
+                "Description": "Area planning and landscape architecture",
+                "Children": [
+                    {
+                        "CallNumber": "710",
+                        "Description": "Area planning and landscape architecture"
+                    },
+                    {
+                        "CallNumber": "711",
+                        "Description": "Area planning (Civic art)"
+                    },
+                    {
+                        "CallNumber": "712",
+                        "Description": "Landscape architecture (Landscape design)"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "720",
+                "Description": "Architecture",
+                "Children": [
+                    {
+                        "CallNumber": "720",
+                        "Description": "Architecture"
+                    },
+                    {
+                        "CallNumber": "721",
+                        "Description": "Architectural materials and structural elements"
+                    },
+                    {
+                        "CallNumber": "722",
+                        "Description": "Architecture from earliest times to c. 300"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "800",
+        "Description": "Literature",
+        "Children": [
+            {
+                "CallNumber": "800",
+                "Description": "Literature, rhetoric and criticism",
+                "Children": [
+                    {
+                        "CallNumber": "800",
+                        "Description": "Literature (Belles-lettres) and rhetoric"
+                    },
+                    {
+                        "CallNumber": "801",
+                        "Description": "Philosophy and theory"
+                    },
+                    {
+                        "CallNumber": "803",
+                        "Description": "Dictionaries, encyclopedias, concordances"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "810",
+                "Description": "American literature in English",
+                "Children": [
+                    {
+                        "CallNumber": "810",
+                        "Description": "American literature in English"
+                    },
+                    {
+                        "CallNumber": "811",
+                        "Description": "American poetry in English"
+                    },
+                    {
+                        "CallNumber": "812",
+                        "Description": "American drama in English"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "820",
+                "Description": "English and Old English literatures",
+                "Children": [
+                    {
+                        "CallNumber": "820",
+                        "Description": "English and Old English (Anglo-Saxon) literatures"
+                    },
+                    {
+                        "CallNumber": "821",
+                        "Description": "English Poetry"
+                    },
+                    {
+                        "CallNumber": "822",
+                        "Description": "English drama"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CallNumber": "900",
+        "Description": "History and geography",
+        "Children": [
+            {
+                "CallNumber": "900",
+                "Description": "History",
+                "Children": [
+                    {
+                        "CallNumber": "900",
+                        "Description": "History, geography, and auxiliary disciplines"
+                    },
+                    {
+                        "CallNumber": "901",
+                        "Description": "Philosophy and theory of history"
+                    },
+                    {
+                        "CallNumber": "902",
+                        "Description": "Miscellany of history"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "910",
+                "Description": "Geography and travel",
+                "Children": [
+                    {
+                        "CallNumber": "910",
+                        "Description": "Geography and travel"
+                    },
+                    {
+                        "CallNumber": "911",
+                        "Description": "Historical geography"
+                    },
+                    {
+                        "CallNumber": "912",
+                        "Description": "Graphic representations of surface of earth and of extraterrestrial worlds"
+                    }
+                ]
+            },
+            {
+                "CallNumber": "920",
+                "Description": "Biography and genealogy",
+                "Children": [
+                    {
+                        "CallNumber": "920",
+                        "Description": "Biography, genealogy, insignia"
+                    },
+                    {
+                        "CallNumber": "929",
+                        "Description": "Genealogy, names, insignia"
+                    }
+                ]
+            }
+        ]
+    }
+]

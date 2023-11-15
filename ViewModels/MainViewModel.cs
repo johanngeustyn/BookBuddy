@@ -37,6 +37,11 @@ namespace BookBuddy.ViewModels
         public ICommand NavigateToIdentifyingAreasCommand { get; private set; }
 
         /// <summary>
+        /// Command to navigate to the FindingCallNumbers view.
+        /// </summary>
+        public ICommand NavigateToFindingCallNumbersCommand { get; private set; }
+
+        /// <summary>
         /// Constructor for the MainViewModel.
         /// </summary>
         public MainViewModel()
@@ -46,6 +51,7 @@ namespace BookBuddy.ViewModels
                 // Initialize the commands.
                 NavigateToReplacingBooksCommand = new RelayCommand(NavigateToReplacingBooks);
                 NavigateToIdentifyingAreasCommand = new RelayCommand(NavigateToIdentifyingAreas);
+                NavigateToFindingCallNumbersCommand = new RelayCommand(NavigateToFindingCallNumbers);
             }
             catch (Exception ex)
             {
@@ -78,6 +84,22 @@ namespace BookBuddy.ViewModels
             try
             {
                 CurrentViewModel = new IdentifyingAreasViewModel();
+            }
+            catch (Exception ex)
+            {
+                // Handle error
+                throw ex;
+            }
+        }
+
+        /// <summary>
+        /// Sets the CurrentViewModel to a new instance of FindingCallNumbersViewModel.
+        /// </summary>
+        private void NavigateToFindingCallNumbers()
+        {
+            try
+            {
+                CurrentViewModel = new FindingCallNumbersViewModel();
             }
             catch (Exception ex)
             {

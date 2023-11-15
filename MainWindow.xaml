@@ -87,13 +87,10 @@
         <StackPanel Grid.Column="0" VerticalAlignment="Center">
             <Button Content="Replace Books" Command="{Binding NavigateToReplacingBooksCommand}" Width="200" Name="btnReplaceBooks" />
             <Button Content="Identify Areas" Command="{Binding NavigateToIdentifyingAreasCommand}" Width="200" Name="btnIdentifyingAreas" />
-            <Button Content="Find Call Numbers" Width="200" IsEnabled="False"/>
+            <Button Content="Find Call Numbers" Command="{Binding NavigateToFindingCallNumbersCommand}" Width="200" Name="btnFindingCallNumbers" />
         </StackPanel>
 
         <!-- Content Control on the right -->
         <ContentControl Name="MainContent" Grid.Column="1" Content="{Binding CurrentViewModel}" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,25,25,25"/>
-
-        <!-- Details on the right -->
-        
     </Grid>
 </Window>
