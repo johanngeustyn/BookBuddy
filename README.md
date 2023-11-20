@@ -10,11 +10,11 @@ BookBuddy is a gamified application designed to train library users and novice l
   - [Compiling the Software](#compiling-the-software)
   - [Running the Software](#running-the-software)
 - [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
 - [License & Contributing](#license--contributing)
 
 ## Features
 
+- **Finding Call Numbers Game**: Users drill deeper and deeper into the hierarchy of call numbers given a question.
 - **Identifying Areas Game**: Users match call numbers with their descriptions using drag and drop.
 - **Replacing Books Game**: Users rearrange generated call numbers in ascending order using drag and drop.
 - **Gamification Timer Feature**: A timer tracks the user's progress, motivating them to improve their time.
@@ -51,7 +51,7 @@ git clone https://github.com/johanngeustyn/BookBuddy.git
 
 ## Usage
 
-1. **Main Screen**: Presents three options: "Replacing books", "Identifying areas", and "Finding call numbers". Currently, only "Replacing books" is available.
+1. **Main Screen**: Presents three options: "Replacing books", "Identifying areas", and "Finding call numbers".
 2. **Replacing Books**:
    - Generates 10 random call numbers upon selection. Use drag and drop to rearrange these numbers in ascending order.
    - Use the provided buttons to either shuffle the current list, generate a new list, or verify the order of your list.
@@ -62,10 +62,12 @@ git clone https://github.com/johanngeustyn/BookBuddy.git
    - After making your selections, click the submit button to check your matches.
    - Challenge yourself! In the subsequent round, the positions of call numbers and descriptions will swap.
    - Aim for accuracy and speed to master the Dewey Decimal System's top-level classes!
-
-## Future Enhancements
-
-- **Finding Call Numbers**: Here, users will have the task of determining the call number for specific topics.
+4. **Finding Call Numbers**:
+   - When a new game is started, you will be presented with a random third-level call number description.
+   - Below the question are 4 options. You're task is to select the right parent category for the given description. At first you will be presented with top-level call numbers, from there you will drill deeper into the second-level parent call numbers until the right answer is selected.
+   - Once you have selected your answer, click the submit button to check your answer.
+   - If you get a question wrong, the game will restart.
+   - Keep track of your score and try to beat your highest score!
 
 ## License & Contributing
 
